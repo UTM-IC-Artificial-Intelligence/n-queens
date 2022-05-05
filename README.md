@@ -80,7 +80,7 @@ Este modelo reduce el espacio de búsqueda.
 
 Se pueden hacer otras elecciones como por ejemplo que el estado inicial tuviera N reinas colocadas, o que el operador permitiera mover las reinas a una celda adyacente. Todas estas alternativas supondrían un coste de solución más elevado.
 
-## Representación del árbol de búsquedas
+## Representación del árbol de búsquedas
 
 ![Ejemplo 1. Ärbol de búsqueda](https://programmersought.com/images/766/a670a462c6f8c2354343a7bd3a18e1f6.png)
 
